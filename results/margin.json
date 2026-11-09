@@ -1,0 +1,62 @@
+{
+ "Logistic map": {
+  "functions": 100,
+  "points": 182,
+  "coverage": 0.6593406593406593,
+  "purity": 0.6197916666666666,
+  "median_ae": 0.3076493740081787,
+  "mean_ae": 0.3641735005418892,
+  "stab_acc": 0.975,
+  "mult_mae": 0.29853931176427473
+ },
+ "Beverton--Holt": {
+  "functions": 100,
+  "points": 200,
+  "coverage": 0.475,
+  "purity": 0.4947916666666667,
+  "median_ae": 0.7774333953857422,
+  "mean_ae": 0.8508710040152073,
+  "stab_acc": 1.0,
+  "mult_mae": 0.5083081781265916
+ },
+ "H\\'enon slice": {
+  "functions": 100,
+  "points": 200,
+  "coverage": 0.76,
+  "purity": 0.5066666666666667,
+  "median_ae": 0.28494203090667725,
+  "mean_ae": 0.2961502504348755,
+  "stab_acc": 1.0,
+  "mult_mae": 0.5605557444071737
+ },
+ "Sine map": {
+  "functions": 100,
+  "points": 197,
+  "coverage": 0.751269035532995,
+  "purity": 0.6904761904761905,
+  "median_ae": 0.24999427795410156,
+  "mean_ae": 0.2764966217162177,
+  "stab_acc": 0.9797297297297297,
+  "mult_mae": 0.3294841532052636
+ },
+ "Ricker map": {
+  "functions": 100,
+  "points": 200,
+  "coverage": 0.695,
+  "purity": 0.4633333333333333,
+  "median_ae": 0.28486204147338867,
+  "mean_ae": 0.31509591221809385,
+  "stab_acc": 1.0,
+  "mult_mae": 0.4955560567923696
+ },
+ "Overall": {
+  "functions": 500,
+  "points": 979,
+  "coverage": 0.6680286006128703,
+  "purity": 0.5443886097152428,
+  "median_ae": 0.27757054059983055,
+  "mean_ae": 0.42203559078195546,
+  "stab_acc": 0.9908256880733946,
+  "mult_mae": 0.4387834998076626
+ }
+}
