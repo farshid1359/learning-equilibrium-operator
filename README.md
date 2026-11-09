@@ -56,3 +56,7 @@ python make_results.py                   # tables, figures and macros
 The saved weights and results are included, so `python make_results.py` alone regenerates all
 tables, figures and numbers from them. It writes `tables/`, `figures/` and `results_macros.tex`
 into the parent directory, where the LaTeX source of the paper is expected.
+
+## License
+
+MIT License, see `LICENSE`.
